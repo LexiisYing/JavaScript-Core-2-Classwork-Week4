@@ -9,3 +9,4 @@ Exercise 2
   Hint: try searching for setInterval.
 
 */
+document.body.style.backgroundColor= "red"; 
